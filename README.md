@@ -13,7 +13,7 @@ A comprehensive template repository for creating AI-optimized client data system
 
 ```
 ├── .github/workflows/          # GitHub Actions workflows
-│   ├── auto-refresh.yml       # Automated refresh workflow
+│   ├── auto-ping-sitemap.yml       # Automated search engine ping upon new files submitted or updated workflow
 │   └── build_ai_files_and_ping_xlsx.yml  # Main processing workflow
 ├── docs/                      # Documentation
 │   ├── comprehensive_readme.md
